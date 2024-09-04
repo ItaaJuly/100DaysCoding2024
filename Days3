@@ -1,6 +1,0 @@
-package Coding100day;
-
-public class Day3 {
-    public static void main (String[] args) {
-    } 
-}
